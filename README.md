@@ -19,8 +19,8 @@ This project provides a solution to recursively iterate over all files within a 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/directory-encryption-decryption.git
-   cd directory-encryption-decryption
+   git clone https://github.com/voilentKiller0/Directory-Cryption.git
+   cd Directory-Cryption
    ```
 
 2. Build the project using `make`:
