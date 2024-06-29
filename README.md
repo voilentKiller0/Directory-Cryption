@@ -1,5 +1,8 @@
 # Directory Encryption/Decryption Project
 
+![image](https://github.com/voilentKiller0/Directory-Cryption/assets/55941465/cd6b9578-0154-4a8c-94d0-6e2a82b05a79)
+
+
 ## Overview
 
 This project provides a solution to recursively iterate over all files within a specified directory and either encrypt or decrypt them based on a given flag. It efficiently handles file processing by creating tasks for each file, placing them into a queue, and processing these tasks until the queue is empty.
